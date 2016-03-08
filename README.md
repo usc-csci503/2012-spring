@@ -1,2 +1,1 @@
-# 2012-spring
-CSCI503 Spring 2012
+# CSCI503 Spring 2012
